@@ -1,7 +1,11 @@
 <h1 align="center">Hi 👋, I'm Muaaz Butt</h1>
 <h3 align="center">A passionate Computer Science student from Pakistan.</h3>
 
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=muaaz-butt&label=Profile%20views&color=0e75b6&style=flat" alt="muaaz-butt" /> </p>
+
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=muaaz-butt" alt="muaaz-butt" /></a> </p>
+
+- 🔭 I’m currently working on **Problem Solving and Data structures**
 
 - 🌱 I’m currently learning **Data structures and algorithm, python, html, css and javascrypt**
 
