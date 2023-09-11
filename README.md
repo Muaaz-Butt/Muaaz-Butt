@@ -29,4 +29,3 @@
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=muaaz-butt&show_icons=true&locale=en" alt="muaaz-butt" /></p>
 
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=muaaz-butt&" alt="muaaz-butt" /></p>
-[![GitHub Streak](https://streak-stats.demolab.com/?user=Muaaz-Butt)](https://git.io/streak-stats)
